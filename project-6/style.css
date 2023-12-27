@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color:#fff;
+  font-family: 'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
+  color: #212121;
+}
+
+.title {
+  text-align: center;
+}
+
+.subtitle {
+  text-align: center;
+  font-size: 30px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 80px;
+}
+
+.divider {
+  height: 0.3rem;
+  max-width: 15rem;
+  margin: 2rem auto;
+  background-color: #265073;
+  opacity: 1;
+  border: 0;
+}
+
+.bold { 
+  font-weight: bolder;
+}
+
+input {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 10px 0;
+}
+
+button {
+    cursor: pointer;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    background-color: #265073;
+    font-size: 16px;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    border-radius: 20px;
+}
+
+.sell { 
+  background-color: white;
+  color: #D1C4E9;
+}
+
+.ftc-intro {
+  background-color:#0097A7;
+  color:white;
+  width:100%;
+  padding:20px;
+}
+
+.form-group {
+  color:black;
+  width:50%;
+  padding:20px;
+  border-radius: 4px;
+  /*background-color: #FCF5ED;*/
+}
+
+.form-break {
+  background-color:#fff;
+  color:white;
+  width:100%;
+  padding:5px;
+}
+
+.horizontal-rule {
+  background-color:#BDBDBD;
+}
+
+.main-section {
+  color: #FFFFFF;
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.4) 0%, rgba(92, 77, 66, 0.5) 100%), url("assets/coffee-beans.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.main-section h1, header.main-section .h1 {
+  font-size: 2.25rem;
+}
+@media (min-width: 992px) {
+  header.main-section {
+    height: 100vh;
+    min-height: 40rem;
+    padding-top: 4.5rem;
+    padding-bottom: 0;
+  }
+  header.main-section p {
+    font-size: 1.15rem;
+  }
+  header.main-section h1, header.main-section .h1 {
+    font-size: 3rem;
+  }
+}
+@media (min-width: 1200px) {
+  header.main-section h1, header.main-section .h1 {
+    font-size: 3.5rem;
+  }
+}
+
+.light-theme {
+  padding:30px;
+  background-color: #FFFFFF;
+  color: #86340A;
+}
+
+.light-theme  > .form-group {
+  padding: 30px;
+  background-color: #FFFFFF;
+  color: #86340A;
+}
+
+.dark-theme {
+  padding: 30px;
+  background-color: #86A3B8;  
+  color: #FFFFFF;
+}
+
+.dark-theme > .form-group{
+  padding: 30px;
+  background-color: #86A3B8;
+  color: #FFFFFF;
+}
+
+
