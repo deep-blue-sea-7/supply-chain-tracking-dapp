@@ -35,7 +35,7 @@ This DApp implements a Coffee Supply Chain and enables you to track the coffee b
 The DApp was published to the IPFS to make it more decentralized. IPNS was used to make sure we can easily update our website and publish to the same IPNS hash:
 
 ```
-https://ipfs.io/ipns/k51qzi5uqu5dgna0gl4za826go0m7npvqykuye4j7uat96bk84r45h66pc3ulu
+https://ipfs.io/ipns/k51qzi5uqu5dhljlil7jbivd7ngxhh67v6sscekdch6h626ysj5dy2xtusxmif
 ```
 
 ![Frontend Screenshot](/images/dapp-frontend.png)
