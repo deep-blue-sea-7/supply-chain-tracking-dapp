@@ -38,6 +38,12 @@ The DApp was published to the IPFS to make it more decentralized. IPNS was used 
 https://ipfs.io/ipns/k51qzi5uqu5dhljlil7jbivd7ngxhh67v6sscekdch6h626ysj5dy2xtusxmif
 ```
 
+In case the IPNS service is not returning the website, go directly to the IPFS website:
+
+```
+https://ipfs.io/ipfs/bafybeigmu2extibclb2mll5oguwjsnucuaewk6fcvsgn3gpnkunchkedji
+```
+
 ![Frontend Screenshot](/images/dapp-frontend.png)
 
 <!-- TOC --><a name="uml-diagrams"></a>
