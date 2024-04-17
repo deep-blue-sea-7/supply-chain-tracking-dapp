@@ -44,6 +44,12 @@ In case the IPNS service is not returning the website, go directly to the IPFS w
 https://ipfs.io/ipfs/bafybeigmu2extibclb2mll5oguwjsnucuaewk6fcvsgn3gpnkunchkedji
 ```
 
+Or,
+
+```
+https://bafybeigmu2extibclb2mll5oguwjsnucuaewk6fcvsgn3gpnkunchkedji.ipfs.w3s.link
+```
+
 ![Frontend Screenshot](/images/dapp-frontend.png)
 
 <!-- TOC --><a name="uml-diagrams"></a>
